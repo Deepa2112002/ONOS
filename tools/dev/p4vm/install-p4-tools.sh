@@ -96,7 +96,7 @@ function do_requirements {
 
     sudo -H pip2.7 install setuptools cffi ipaddr ipaddress pypcap \
         git+https://github.com/p4lang/scapy-vxlan \
-        git+https://github.com/p4lang/ptf.git
+        git+https://github.com/Deepa2112002/ptf.git
 }
 
 function do_requirements_1604 {
